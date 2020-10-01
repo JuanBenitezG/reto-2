@@ -1,0 +1,7 @@
+conocer a un director O(N)
+conocer un actor O(N+5)
+crearRanking O(N*10)
+cargarDatos O(N)
+darPelDir O(N)
+REQ5 O(N)
+REQ6 O(nlog(n))
